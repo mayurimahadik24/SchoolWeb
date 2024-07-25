@@ -18,6 +18,7 @@ const Admissionform = () => {
           </a>
         </li>
       </ul>
+      <div>Made by Mayuri</div>
     </div>
   );
 };

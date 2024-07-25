@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mayurimahadik24/SchoolWeb/static/css/main.698ab042.css",
+    "main.js": "/mayurimahadik24/SchoolWeb/static/js/main.b2ff3d45.js",
+    "static/js/453.00a81ccd.chunk.js": "/mayurimahadik24/SchoolWeb/static/js/453.00a81ccd.chunk.js",
+    "static/media/scexhib1.jpeg": "/mayurimahadik24/SchoolWeb/static/media/scexhib1.8dc7397641f7673db985.jpeg",
+    "static/media/scexhib2.jpeg": "/mayurimahadik24/SchoolWeb/static/media/scexhib2.d1fe6f828ac107b66d51.jpeg",
+    "static/media/image2.jpeg": "/mayurimahadik24/SchoolWeb/static/media/image2.4479cec5978ea95df42b.jpeg",
+    "index.html": "/mayurimahadik24/SchoolWeb/index.html",
+    "main.698ab042.css.map": "/mayurimahadik24/SchoolWeb/static/css/main.698ab042.css.map",
+    "main.b2ff3d45.js.map": "/mayurimahadik24/SchoolWeb/static/js/main.b2ff3d45.js.map",
+    "453.00a81ccd.chunk.js.map": "/mayurimahadik24/SchoolWeb/static/js/453.00a81ccd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.698ab042.css",
+    "static/js/main.b2ff3d45.js"
+  ]
+}
